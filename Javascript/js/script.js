@@ -36,6 +36,7 @@ alert("mi nombre es: "+nom+" "+ape)
 completos, edad, peso y direccion utilizando 
 la funcion prompt*/
 
+//probando un mensaje en js
 
 
 
