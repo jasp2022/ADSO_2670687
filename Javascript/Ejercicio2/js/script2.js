@@ -13,3 +13,6 @@ del mes, el quiere saber cuanto ganara en un mes que
 tuvo tres ventas*/
 
 //ejercicio 4
+
+
+//ejercicio 5
