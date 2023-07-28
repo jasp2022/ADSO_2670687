@@ -11,3 +11,5 @@ alert("el nuevo sueldo con el aumento es: "+nsueldo); */
 recibe una comision del 30% del total de las ventas 
 del mes, el quiere saber cuanto ganara en un mes que
 tuvo tres ventas*/
+
+//ejercucui 4
