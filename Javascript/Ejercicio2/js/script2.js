@@ -16,3 +16,16 @@ tuvo tres ventas*/
 
 
 //ejercicio 5 hola
+
+let opcion = prompt("1. suma 2. resta");
+let num1=  prompt("dicigite numero 1");
+let num2=  prompt("dicigite numero 2");
+
+if (opcion==1){ 
+    suma=parseInt(num1)+parseInt(num2);
+    alert(suma);
+} else 
+{ 
+    resta=parseInt(num1)+parseInt(num2);
+    alert(resta);
+}
