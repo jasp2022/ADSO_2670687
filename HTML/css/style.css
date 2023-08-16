@@ -3,17 +3,32 @@
 }
 h2{
     color: #ff000f;
+    
 }
 
-.t2{
-    color:#db10f6;
-    text-align: center;
+.div1{
+    border-width: 2px 0;
 }
 
 .p1{
     text-align: justify;
 }
 #t1{
-    text-align: right;
+
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    font-style: oblique;
+    font-size: 1.2em;
+
+    text-align: center;
     color:#ffff00;
+
+    border-bottom: 4px solid;
+    border-right: 4px solid;
+
+   
+}
+
+a{
+    text-decoration: none;
 }
